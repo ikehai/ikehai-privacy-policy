@@ -1,11 +1,11 @@
 # Ikehai Privacy Policy Site
 
-Static GitHub Pages site for a general, account-level privacy policy covering apps and services published under the Ikehai account.
+Static GitHub Pages site for the FieldTrack mobile app privacy policy published under the Ikehai account.
 
 ## Files
 
-- `index.html`: landing page
-- `privacy-policy/index.html`: privacy policy
+- `index.html`: privacy policy page at the root URL used by Google Play
+- `privacy-policy/index.html`: matching privacy policy page on a dedicated route
 - `styles.css`: shared site styles
 - `.github/workflows/pages.yml`: GitHub Pages deploy workflow
 
@@ -18,7 +18,7 @@ Static GitHub Pages site for a general, account-level privacy policy covering ap
 
 ## Before Publishing
 
-Review and update these details in `privacy-policy/index.html`:
+Review and update these details in `index.html` and `privacy-policy/index.html`:
 
 - Contact email
 - Mailing address, if you want to provide one
